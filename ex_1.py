@@ -7,6 +7,6 @@ n2 = int(input("Insert the 2nd number: "))
 if n1 > n2:
     print("n1 is greater")
 elif n1 == n2:
-    print("The number are equivalent")
+    print("The numbers are equivalent")
 else:
     print("n2 is greater")

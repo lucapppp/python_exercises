@@ -1,6 +1,6 @@
 '''
 Write a program that, after taking 3 numbers in input (a, b, c),
-prints if the quadratic equation a x2 + b x + c = 0
+prints if the quadratic equation a x^2 + b x + c = 0
 built with those numbers has
 - zero real solutions,
 - two coincident solutions

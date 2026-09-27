@@ -8,13 +8,13 @@ an error message and exit;
 • If the age is >= 18 allows the registration.
 '''
 
-year = input("Insert your year of birth: ")
-if not isinstance(year, int) or int(year) > 2026:
+year = int(input("Insert your year of birth: "))
+if year > 2026:
     print("ERROR: invalid year")
 else:
-    if (2026 - int(year)) < 14:
+    if (2026 - year) < 14:
         print("User not allowed to register!")
-    elif 14 <= (2026 - int(year)) < 18:
+    elif 14 <= (2026 - year) < 18:
         print("The user needs parents authorization!")
     else:
         print("Registration is allowed")

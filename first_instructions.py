@@ -37,7 +37,7 @@ a = 5
 b = 7
 print(a/b)
 #arithmetics functions
-#absolute function abs() is the absolute value
+#absolute function abs()  is the absolute value
 abs(-5)
 #round() rounds it up to the next integer
 round(3.1) #gives 4
