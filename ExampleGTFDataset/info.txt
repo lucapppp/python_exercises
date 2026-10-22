@@ -1,0 +1,6 @@
+Average region length	59.86
+Description	Example_Dataset_2 contains synthetic example genomic region data and metadata. The release date of this dataset is January 2018.
+Number of regions	24
+Number of samples	6
+Size	0.02 MB
+Upload date	2018/01/10 13:40:16
